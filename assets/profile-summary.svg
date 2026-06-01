@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Profile summary for Jeongseok Lee</title>
+  <desc id="desc">A stable profile card for Jeongseok Lee showing his role, location, focus areas, and GitHub activity.</desc>
+  <rect width="720" height="260" rx="8" fill="#f7f8f4"/>
+  <rect x="1" y="1" width="718" height="258" rx="7" fill="none" stroke="#d7dccf"/>
+  <rect x="28" y="28" width="96" height="96" rx="48" fill="#1f4e5f"/>
+  <text x="76" y="88" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="34" font-weight="700" fill="#f7f8f4">JS</text>
+  <text x="148" y="56" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="28" font-weight="700" fill="#203134">Jeongseok (JS) Lee</text>
+  <text x="148" y="86" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="15" fill="#52615b">Research Engineer at Reality Labs</text>
+  <text x="148" y="113" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="15" fill="#52615b">Redmond, WA</text>
+
+  <rect x="28" y="150" width="152" height="62" rx="8" fill="#ffffff" stroke="#d7dccf"/>
+  <text x="48" y="177" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="700" fill="#52615b">Public repos</text>
+  <text x="48" y="201" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="700" fill="#203134">168</text>
+
+  <rect x="198" y="150" width="152" height="62" rx="8" fill="#ffffff" stroke="#d7dccf"/>
+  <text x="218" y="177" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="700" fill="#52615b">Followers</text>
+  <text x="218" y="201" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="700" fill="#203134">20</text>
+
+  <rect x="368" y="150" width="152" height="62" rx="8" fill="#ffffff" stroke="#d7dccf"/>
+  <text x="388" y="177" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="700" fill="#52615b">Open source</text>
+  <text x="388" y="201" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="700" fill="#203134">conda-forge</text>
+
+  <rect x="538" y="150" width="154" height="62" rx="8" fill="#ffffff" stroke="#d7dccf"/>
+  <text x="558" y="177" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="13" font-weight="700" fill="#52615b">Primary stack</text>
+  <text x="558" y="201" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" font-weight="700" fill="#203134">Python</text>
+
+  <text x="148" y="235" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="14" fill="#52615b">Robotics - simulation - computer vision - ML infrastructure - packaging</text>
+</svg>
