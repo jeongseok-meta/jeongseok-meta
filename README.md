@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jeongseok-meta">
-    <img alt="GitHub contribution activity graph for jeongseok-meta" src="https://github-readme-activity-graph.vercel.app/graph?username=jeongseok-meta&theme=github-compact&hide_border=true" />
+    <img alt="GitHub contribution activity graph for jeongseok-meta" src="https://github-readme-activity-graph.vercel.app/graph?username=jeongseok-meta&theme=github-compact&hide_border=true&height=240&hide_title=true" />
   </a>
 </p>
 
